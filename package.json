@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-linkedin-humblebrag",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "linkedin-humblebrag MCP — wraps StupidAPIs (keyless — no credential needed)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-ea4b4cd38b9dd78bf4fcb1f2338e9d06e5ccb20375a4cdd12b23304a27eb65ae",
+    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
   }
 }
